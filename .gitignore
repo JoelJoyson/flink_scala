@@ -1,0 +1,11 @@
+*.iml
+*.ipr
+*.iws
+.idea
+out
+.DS_Store
+*.class
+*.iml
+*.swp
+*.jar
+.cache
